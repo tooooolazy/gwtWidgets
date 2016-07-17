@@ -1,0 +1,7 @@
+<module>
+	<stylesheet src="tlz-login.css" />
+
+	<source path='client' />
+	<source path='shared' />
+</module>
+

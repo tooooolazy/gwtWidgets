@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.4.0//EN" "http://google-web-toolkit.googlecode.com/svn/tags/2.4.0/distro-source/core/src/gwt-module.dtd">
+<module>
+	<stylesheet src="tlz-widgets-css-styles.css"/>
+
+  <inherits name='com.tooooolazy.gwt.login.TlzLogin' />
+  <inherits name='com.tooooolazy.gwt.forms.EnhancedForm' />
+  <inherits name='com.tooooolazy.gwt.flexlayout.FlexLayout' />
+  <inherits name='com.tooooolazy.gwt.datepicker.DatePicker' />
+
+  <!-- Specify the paths for translatable code                    -->
+  <source path='client'/>
+  <source path='shared'/>
+</module>

@@ -1,0 +1,23 @@
+.tlz-formLayout {
+}
+.tlz-fieldLayout {
+	width: 95%;
+}
+.tlz-fieldContainerRow {
+	width: 100%;
+}
+.tlz-field-label {
+	white-space: nowrap;
+	padding-left: 10px;
+	text-align: right;
+}
+.tlz-field-label-has-error {
+	color: red;
+}
+.tlz-field {
+	width: 100%;
+}
+.tlz-field-has-error{
+	border: 1px solid red;
+	background: #ffdccc;
+}
